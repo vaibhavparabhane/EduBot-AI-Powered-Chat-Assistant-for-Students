@@ -1,0 +1,188 @@
+What is the STAR method in interviews?
+The STAR method stands for Situation, Task, Action, and Result. It's used to structure responses to behavioral questions effectively.
+
+Tell me about yourself.
+Start with your current role or education, highlight key achievements or internships, and conclude with your career goals.
+
+How should I answer 'Why should we hire you?' 
+Focus on your skills, past achievements, and how you align with the company’s needs. Be confident and concise.
+
+What is your greatest strength?
+Choose a strength that aligns with the role, and back it up with an example—like adaptability, communication, or problem-solving.
+
+What is your biggest weakness?
+Choose a real but non-critical weakness, and explain how you're actively working to improve it.
+
+How do I prepare for technical interviews?
+Practice DSA, review your projects, understand system design basics, and brush up on language-specific fundamentals.
+
+What is object-oriented programming?
+OOP is a programming paradigm based on objects containing data and methods. Core concepts include encapsulation, inheritance, and polymorphism.
+
+What is a data structure?
+Data structures are ways to store and organize data efficiently. Examples include arrays, linked lists, stacks, and trees.
+
+What is Big O notation?
+Big O describes the time or space complexity of an algorithm in terms of input size, helping evaluate performance.
+
+Explain a project you worked on.
+Describe the problem, the tech stack used, your role, challenges faced, and the final outcome or results.
+
+What is the difference between Array and Linked List?
+Arrays have fixed size and allow random access, while linked lists are dynamic and efficient at insertions/deletions.
+
+What is normalization in databases?
+Normalization is the process of organizing data to reduce redundancy and improve data integrity in relational databases.
+
+What is the difference between primary key and foreign key?
+A primary key uniquely identifies records in a table; a foreign key links records between two tables.
+
+What is SQL JOIN?
+A JOIN is used to combine rows from two or more tables based on a related column.
+
+What is the difference between REST and SOAP APIs?
+REST is stateless, simpler, and uses JSON, while SOAP is protocol-based, more secure, and uses XML.
+
+How do I handle rejection in interviews?
+Stay positive, ask for feedback, improve your weak areas, and treat every interview as a learning experience.
+
+What questions can I ask the interviewer?
+Ask about team structure, technologies used, growth opportunities, and expectations for the role.
+
+What is your salary expectation?
+Research market rates and give a reasonable range, or say you're open to discussing a fair offer based on the role.
+
+How do I make my resume stand out?
+Focus on measurable achievements, use action verbs, tailor it to the job, and keep it clean and readable.
+
+Should I add a photo to my resume?
+It's not required unless specifically asked. Prioritize content, clarity, and relevance.
+
+What are soft skills and why are they important?
+Soft skills include communication, adaptability, teamwork, and time management. They complement technical skills in most jobs.
+
+How do I negotiate my first job offer?
+Express gratitude, understand the offer, and if necessary, respectfully ask for a better package based on market research.
+
+Can you help me prepare for HR interviews?
+Yes! Practice common behavioral questions, know your resume well, and be ready to talk about your values, goals, and personality.
+
+How do I explain a gap in my education or work?
+Be honest. Focus on what you learned or did during that period, such as courses, projects, or personal growth.
+
+What is group discussion and how do I ace it?
+Group discussion evaluates communication and thinking skills. Stay calm, make logical points, and listen actively to others.
+
+Tell me about yourself.
+Give a short, 1-minute summary of your key skills and why you are interested in this role.
+
+What are your strengths?
+Name one or two key strengths from the job description and give a real example of when you used them.
+
+What are your weaknesses?
+Mention a real weakness you are actively improving. This shows that you are self-aware.
+
+What do you know about our company?
+Mention their products, mission, or recent news. Show that you have done your homework and are genuinely interested.
+
+Why do you want to work here?
+Talk about the company's values, projects, or culture that excite you and align with your own goals.
+
+Why should we hire you?
+Explain how your specific skills and experience are a perfect match for the job requirements listed.
+
+Where do you see yourself in 5 years?
+Describe your ambition to grow your skills and take on more responsibility, ideally at this company.
+
+How do you handle stress or pressure?
+Mention staying calm, focusing on a plan, prioritizing tasks, and not being afraid to ask for help when needed.
+
+Describe a difficult problem you solved.
+Use the STAR method (Situation, Task, Action, Result) to explain a challenging situation and how you overcame it.
+
+Tell me about a time you worked in a team.
+Describe your role in the team and how you contributed to a successful outcome. Focus on collaboration and communication.
+
+How do you handle feedback or criticism?
+Explain that you see feedback as a valuable opportunity to learn and grow, not as a personal attack.
+
+What motivates you?
+Talk about what drives you, such as solving challenging problems, learning new technologies, or contributing to a team goal.
+
+Tell me about a project you are proud of.
+Briefly describe a project. Explain the goal, what you did, the technologies you used, and what the final result was.
+
+How do you stay updated with technology?
+Mention reading tech blogs, following experts on social media, taking online courses, or working on personal projects.
+
+Tell me about a time you had to learn something new quickly.
+Describe the situation, what you needed to learn, and the steps you took to learn it efficiently.
+
+What is Python?
+Python is a popular, high-level programming language known for its simple and readable code.
+
+What is a variable in programming?
+A variable is a name that refers to a value. It's a container for storing data.
+
+What is a function?
+A function is a reusable block of code that performs a specific action when called.
+
+What is a loop?
+A loop is a control structure used to repeatedly execute a block of code as long as a condition is true.
+
+What is an algorithm?
+An algorithm is a set of step-by-step instructions designed to perform a specific task or solve a problem.
+
+What is a data structure?
+A data structure is a specialized format for organizing, processing, retrieving and storing data.
+
+What is an API?
+An API (Application Programming Interface) is a set of rules that allows different software applications to communicate with each other.
+
+What is SQL?
+SQL (Structured Query Language) is the standard language for managing and communicating with relational databases.
+
+What is a database table?
+A table is a collection of related data held in a structured format within a database, consisting of columns and rows.
+
+What is a primary key?
+A primary key is a unique identifier for each record in a database table. It cannot have NULL values.
+
+What is Git?
+Git is a distributed version control system used to track changes in source code during software development.
+
+What is a 'commit' in Git?
+A 'commit' is like a snapshot of your files at a specific point in time. It saves your changes to the local repository.
+
+What is HTML?
+HTML (HyperText Markup Language) is the standard language for creating the structure of web pages.
+
+What is CSS?
+CSS (Cascading Style Sheets) is a language used to describe the presentation and styling of a web page written in HTML.
+
+What is your preferred work environment?
+Describe an environment where you are most productive, e.g., collaborative, independent, fast-paced, or structured.
+
+How do you organize your work?
+Mention techniques like using to-do lists, project management tools, or prioritizing tasks based on urgency and importance.
+
+What are your hobbies or interests outside of work?
+Share a genuine hobby. This helps the interviewer see you as a well-rounded person.
+
+What are your salary expectations?
+Research the market rate for the role in your location and provide a reasonable salary range, showing flexibility.
+
+When can you start?
+Be realistic. If you are currently employed, mention your required notice period. Otherwise, state your availability.
+
+Do you have any questions for us?
+Yes! Always have at least two thoughtful questions ready to ask about the team, the role, or the company culture.
+
+Tell me about a time you failed.
+Describe a situation where things didn't go as planned, what you learned, and how you applied that lesson later.
+
+Thank you!
+You're welcome! All the best for your interviews. You've got this!
+
+Bye
+Goodbye and good luck! Come back if you need more prep tips.
